@@ -1,0 +1,61 @@
+div.ileft {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 0;
+}
+
+div.sometext {
+    font-size: 14px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.iright {
+    display: none;
+}
+
+.iquestion {
+    padding: 24px;
+    margin-top: 36px;
+    border: 1px solid transparent;
+    box-shadow: none;
+}
+
+.iquestion:hover {
+    box-shadow: none;
+    border: 1px solid lightgrey;
+    transform: scale(1);
+}
+
+h1, h2, p, strong, a {
+    text-shadow: none;
+}
+
+a.buttonlink {
+    margin-top: 16px;
+    box-shadow: none;
+    background-color: transparent;
+    color: #666;
+}
+
+a.buttonlink:hover {
+    box-shadow: none;
+    background-color: transparent;
+}
+
+div.iquestion {
+    font-size: 16px;
+}
+
+.idifrange {
+    padding: 12px;
+    box-shadow: none;
+    border: 1px solid lightgrey;
+    margin-top: 24px;
+}
+
+#cookiebox2 {
+    display: none;
+}
